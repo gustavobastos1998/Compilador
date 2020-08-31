@@ -1,2 +1,2 @@
 # Compilador
-Compilador escrito em Java utilizando conceitos de POO.
+Projeto feito durante a cadeira de compiladores. Programa escrito em Java.
